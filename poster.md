@@ -1,6 +1,5 @@
 ---
 layout: default
-title: poster
 ---
 
 # Research Poster
