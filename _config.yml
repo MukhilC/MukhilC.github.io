@@ -1,8 +1,5 @@
-title: "Mukhil C"
-description: " Hi! I'm Mukhil C, and I work on gravitational physics including gravitational-wave astrophysics.  
-This website hosts my research summaries, Master's thesis, posters, and CV."
+title: Welcome
+description: "Hi! I'm Mukhil C. I currently work in the field of gravitational physics, particularly multi-body dynamicsa and gravitational waves. I sometimes do go on side-quests in the field too. "
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
- 
-markdown: kramdown
-kramdown:
-  input: GFM
