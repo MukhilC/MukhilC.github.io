@@ -1,3 +1,11 @@
 title: "Mukhil C"
-description: "My personal website"
+description: "Research in Gravitational Physics and Gravitational Waves"
 theme: jekyll-theme-cayman
+
+# Navigation bar
+header_pages:
+  - index.md
+
+markdown: kramdown
+kramdown:
+  input: GFM
