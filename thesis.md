@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Thesis
+title: Master's Thesis
 ---
 
-# Master's Thesis
+Below is the full thesis.
 
-Below is the full thesis.  
-You can scroll through all pages inside the viewer:
-
-<embed src="/assets/files/thesis.pdf" type="application/pdf" width="100%" height="1200px" />
+<embed src="/assets/files/MSc_Thesis.pdf" type="application/pdf" width="100%" height="1200px" />
