@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 header_pages:
   - index.md
   - research.md
-
+ 
 markdown: kramdown
 kramdown:
   input: GFM
