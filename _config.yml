@@ -1,11 +1,6 @@
 title: "Mukhil C"
 description: "Research in Gravitational Physics and Gravitational Waves"
-theme: jekyll-theme-minimal
-
-# Navigation bar
-header_pages:
-  - index.md
-  - research.md
+theme: jekyll-theme-cayman
  
 markdown: kramdown
 kramdown:
