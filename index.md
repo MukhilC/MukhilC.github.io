@@ -8,7 +8,14 @@ Hello there! I am Mukhil C. I am a astrophysicist, currently working on gravitat
 
 And here I am doing research in the field, both under supervision and independently.
 
+Other than research, I love going on motorcycle rides and in general, am a big fan of automobiles. Currently trying to learn how to service my bike on my own. I also like playing chess (not very great at it though).
+
 ### To know more, check out
 
 ## [My Research](./Research.md)
-## [Contact Details](./Contacts.md)
+## [Codes](./Codes.md)
+
+### Contact me:
+mukhil.c@phy.christuniversity.in
+OR
+mukhil135work@gmail.com
