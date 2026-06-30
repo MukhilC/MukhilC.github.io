@@ -1,3 +1,8 @@
+---
+layout: default
+title: MC-Space
+---
+
 # Codes
 
 I currently have two private repos. One of them contains the code used for the research done in the prepint, i.e, hierarchical triple system simulations upto 1PN, while the second repo contains the codes being used in my current research.
