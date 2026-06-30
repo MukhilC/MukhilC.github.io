@@ -11,7 +11,7 @@ And here I am doing research in the field, both under supervision and independen
 
 Other than research, I love going on motorcycle rides and in general, am a big fan of automobiles. Currently trying to learn how to service my bike on my own. I also like playing chess (not very great at it though).
 
-### To know more, check out
+To know more, check out
 
 ## [My Research](./Research.md)
 ## [Codes](./Codes.md)
