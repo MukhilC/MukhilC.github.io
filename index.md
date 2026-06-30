@@ -16,7 +16,7 @@ To know more, check out
 ## [My Research](./Research.md)
 ## [Codes](./Codes.md)
 
-### Contact me:
+Contact me:
 mukhil.c@phy.christuniversity.in
 OR
 mukhil135work@gmail.com
